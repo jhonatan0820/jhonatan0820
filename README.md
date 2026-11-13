@@ -85,11 +85,19 @@ Currently working with enterprise applications, APIs, automated processes and re
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,cloudflare" />
 </p>
 
-<h3>05. Development Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,maven,bash" />
+<h3>05. Development Tools · Herramientas</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,spring,git,maven" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Antigravity-202124?style=flat-square&logo=google&logoColor=white" />
 </p>
+
+<p align="left">
+  Visual Studio Code · Spring Boot · Git · Maven · Antigravity
+</p>
+
 
 
 ---
