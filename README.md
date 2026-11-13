@@ -28,35 +28,25 @@ Currently working with enterprise applications, APIs, automated processes and re
 
 ---
 
-## Tech Stack · Tecnologías
+<h2>Tech Stack · Tecnologías</h2>
 
-**Languages**
+<h3>Backend Development</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" />
 
-**Backend & Frameworks**
+<h3>Automation & Programming</h3>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-**Databases**
+<h3>Databases</h3>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-**Infrastructure & Tools**
+<p>SQL Server · MySQL · IBM DB2</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<h3>Infrastructure & DevOps</h3>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,cloudflare" />
 
 ---
 
