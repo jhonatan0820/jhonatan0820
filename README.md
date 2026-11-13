@@ -67,13 +67,6 @@ Currently working with enterprise applications, APIs, automated processes and re
     height="55"
     alt="MySQL"
   />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ibm/ibm-original.svg"
-    width="55"
-    height="55"
-    alt="IBM"
-  />
 </p>
 
 <p align="left">
