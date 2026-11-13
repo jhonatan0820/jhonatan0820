@@ -49,26 +49,17 @@ Currently working with enterprise applications, APIs, automated processes and re
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
+
 <h3>03. Databases · Bases de datos</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"
-       width="48" height="48" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-  <img src="https://cdn.simpleicons.org/mysql/4479A1"
-       width="48" height="48" alt="MySQL" />
-
-  &nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/ibm/052FAD"
-       width="48" height="48" alt="IBM DB2" />
+  <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2" />
 </p>
 
-<p>
-  SQL Server &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; IBM DB2
-</p>
 
 <h3>04. Infrastructure & DevOps</h3>
 
