@@ -3,7 +3,7 @@
   GitHub Profile README
 -->
 <div align="center">
-  <img src="assets/Banner.png" width="100%" alt="Jhonatan Traslaviña - Software Developer">
+  <img src="assets/Bannerinfo.png" width="100%" alt="Jhonatan Traslaviña - Software Developer">
 </div>
 
 ---
