@@ -28,25 +28,47 @@ Currently working with enterprise applications, APIs, automated processes and re
 
 ---
 
-<h2>Tech Stack · Tecnologías</h2>
 
-<h3>Backend Development</h3>
+<h2 align="left">Tech Stack · Tecnologías</h2>
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" />
+<p align="left">
+  Technologies I use to build, automate and deploy software.
+  <br>
+  Tecnologías que utilizo para desarrollar, automatizar y desplegar soluciones.
+</p>
 
-<h3>Automation & Programming</h3>
+<h3>01. Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" />
+</p>
 
-<h3>Databases</h3>
+<h3>02. Programming & Web</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-<p>SQL Server · MySQL · IBM DB2</p>
+<h3>03. Databases · Bases de datos</h3>
 
-<h3>Infrastructure & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,cloudflare" />
+<h3>04. Infrastructure & DevOps</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,cloudflare" />
+</p>
+
+<h3>05. Development Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,maven,bash" />
+</p>
+
 
 ---
 
