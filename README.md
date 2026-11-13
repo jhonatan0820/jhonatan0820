@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/github-banner.png" width="100%">
+  <img src="assets/Banner.png" width="100%">
 </div>
 
 <div align="center">
