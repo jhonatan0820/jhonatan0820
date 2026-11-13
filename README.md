@@ -115,26 +115,14 @@ Infraestructura personal para desplegar y publicar aplicaciones utilizando Docke
 
 ---
 
-## GitHub Activity
+## GitHub Activity · Actividad
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatan0820&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+[![GitHub](https://img.shields.io/badge/GitHub-jhonatan0820-181717?style=flat-square&logo=github)](https://github.com/jhonatan0820)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan0820&layout=compact&hide_border=true&theme=transparent)
+*Building software, learning and improving every day.*
 
-</div>
-
----
-
-<div align="center">
-
-### Let's build something meaningful.
-
-**Construyamos algo que valga la pena.**
-
-[GitHub Profile](https://github.com/jhonatan0820)
-
-*Designed with simplicity. Built with engineering.*
+*Desarrollando, aprendiendo y mejorando cada día.*
 
 </div>
