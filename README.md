@@ -50,15 +50,40 @@ Currently working with enterprise applications, APIs, automated processes and re
 </p>
 
 
+
 <h3>03. Databases · Bases de datos</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-  <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="55"
+    height="55"
+    alt="SQL Server"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    width="55"
+    height="55"
+    alt="MySQL"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ibm/ibm-original.svg"
+    width="55"
+    height="55"
+    alt="IBM"
+  />
 </p>
+
+<p align="left">
+  <strong>SQL Server</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>MySQL</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>IBM Db2</strong>
+</p>
+
 
 
 <h3>04. Infrastructure & DevOps</h3>
