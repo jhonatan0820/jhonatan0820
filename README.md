@@ -2,20 +2,21 @@
   JHONATAN TRASLAVIÑA
   GitHub Profile README
 -->
-
-<div align="center">
-  <img src="assets/Banner.png" width="100%">
-</div>
-
 <div align="center">
 
-# JHONATAN TRASLAVIÑA
+  <img src="assets/Banner.png" width="100%" alt="Jhonatan Developer Banner">
 
-### Software Developer · Backend Engineering · Automation
+  <h1>JHONATAN TRASLAVIÑA</h1>
 
-**Building reliable software. Automating real-world processes.**
+  <h3>Software Developer · Backend Engineering · Automation</h3>
 
-[GitHub](https://github.com/jhonatan0820)
+  <p>
+    <strong>Building reliable software. Automating real-world processes.</strong>
+  </p>
+
+  <a href="https://github.com/jhonatan0820">
+    GitHub
+  </a>
 
 </div>
 
